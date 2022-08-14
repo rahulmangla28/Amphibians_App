@@ -9,10 +9,10 @@ Contents
 * [Android Concepts Used](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#android-concepts-used)
 * [Networking Libraries Used](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#networking-libraries-used)
 * [Languages Used](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#languages-used)
-* [App Permissions]
-* [UI]
-* [Coding Style]
-* [Future Enhancements]
+* [App Permissions](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#app-permissions)
+* [UI](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#ui)
+* [Coding Style](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#coding-style)
+* [Future Enhancements](https://github.com/rahulmangla28/Amphibians_App/edit/master/README.md#future-enhancements)
 
 Android Concepts Used
 ----------------------
