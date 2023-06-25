@@ -7,7 +7,7 @@ _**You can install preview application from here**_
 
 [![Amphibian App](https://img.shields.io/badge/Amphibian%20App-v1.0.0-brightgreen)](https://github.com/rahulmangla28/Amphibians_App/releases/tag/amphibian-app.debug)
 
-
+:link:
 :scroll: Contents
 ------------------
 
